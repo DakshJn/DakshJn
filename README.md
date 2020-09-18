@@ -7,7 +7,7 @@
 <br>
 [![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/7895862862)
 <br>
-## He is a Sales and Marketing Intern at geeksforGeeks and Frontend Developer !
+## He is a Sales & Marketing Intern at geeksforGeeks and Frontend Developer !
 
 - 🌱 He is currently learning Web Development
 - ⚽ He is an ardent fan of Real Madrid inspired by working for success and not dreaming about it in addition to being a self-taught programmer with 5+ years of experience in writing and debugging code. 
