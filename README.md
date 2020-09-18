@@ -1,4 +1,4 @@
-### Hi there, I'm Daksh - aka [DakshJn][website] 👋
+### Hi there, This is Daksh - aka [DakshJn][website] 👋
 
 
 [![Website](https://img.shields.io/website?label=dakshjn.github.io/Portfolio-Website/&style=for-the-badge&url=https%3A%2F%2Fdakshjn.github.io/Portfolio-Website/)](https://dakshjn.github.io/Portfolio-Website/)
@@ -7,18 +7,17 @@
 <br>
 [![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/7895862862)
 <br>
-## I'm a Sales and Marketing Intern at geeksforGeeks and Frontend Developer !
+## He is a Sales and Marketing Intern at geeksforGeeks and Frontend Developer !
 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch Football and play guitar
+- 🌱 He is currently learning Web Development
 - ⚽ He is an ardent fan of Real Madrid inspired by working for success and not dreaming about it in addition to being a self-taught programmer with 5+ years of experience in writing and debugging code. 
 - 🏅 He is a Governor awardee with being a GeeksforGeeks Intern in the second year, his interest motions from Web development to competitive coding to consultancy and marketing. 
 - 💻 He always looks forward to impactful and meaningful opportunities that push him out of his comfort zone. 
 - ✈️ He loves to travel, discover new cultures, and meet new people.
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: He loves to watch Football and play guitar
 
-### Connect with me:
+### Connect with him:
 
 
 [<img align="left" alt="DakshJn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
