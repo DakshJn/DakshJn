@@ -2,8 +2,11 @@
 
 
 [![Website](https://img.shields.io/website?label=dakshjn.github.io/Portfolio-Website/&style=for-the-badge&url=https%3A%2F%2Fdakshjn.github.io/Portfolio-Website/)](https://dakshjn.github.io/Portfolio-Website/)
+<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/DakshJn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/daksh__jain)
-
+<br>
+[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/7895862862)
+<br>
 ## I'm a Sales and Marketing Intern at geeksforGeeks and Frontend Developer !
 
 - 🌱 I’m currently learning everything 🤣
@@ -43,3 +46,4 @@
 [twitter]: https://twitter.com/daksh__jain
 [instagram]:https://www.instagram.com/dakshjn.09/
 [linkedin]: https://www.linkedin.com/in/daksh-jain-661455191/
+[whatsapp]: https://wa.me/7895862862
