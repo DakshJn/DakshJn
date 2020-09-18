@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Netflix and play guitar
+-He is an ardent fan of Real Madrid inspired by working for success and not dreaming about it in addition to being a self-taught programmer with 5+ years of experience in writing and debugging code. He is a Governor awardee with being a GeeksforGeeks Intern in the second year, his interest motions from Web development to competitive coding to consultancy and marketing. He always looks forward to impactful and meaningful opportunities that push him out of his comfort zone. He loves to travel, discover new cultures, and meet new people.
 
 ### Connect with me:
 
