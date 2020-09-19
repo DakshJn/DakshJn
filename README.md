@@ -1,5 +1,5 @@
 ### Hi there, This is Daksh - aka [DakshJn][website] 👋  
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif" />
 
 [![Website](https://img.shields.io/website?label=dakshjn.github.io/Portfolio-Website/&style=for-the-badge&url=https%3A%2F%2Fdakshjn.github.io/Portfolio-Website/)](https://dakshjn.github.io/Portfolio-Website/)
 <br>
