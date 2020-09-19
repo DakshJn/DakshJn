@@ -43,6 +43,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<a href="https://github.com/DakshJn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DakshJn&show_icons=true&theme=light&line_height=27" alt="Daksh github stats"/>
+</a>
+<a href="https://github.com/DakshJn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshJn&theme=light&hide_langs_below=1" />
+</a>
 
 [website]:https://dakshjn.github.io/Portfolio-Website/
 [twitter]: https://twitter.com/daksh__jain
